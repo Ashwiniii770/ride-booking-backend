@@ -3,7 +3,7 @@
 ## Overview
 This project is a backend system for a **Ride Booking Application** built using **FastAPI** and **SQLite**.  
 It provides REST API endpoints to manage riders, drivers, and ride bookings.
-
+ 
 ## Features
 - Rider registration and management
 - Driver registration and management
