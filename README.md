@@ -40,3 +40,45 @@ POST /riders
 POST /drivers
 POST /rides
 GET /rides
+
+
+
+
+## How to Run the Project
+
+### 1. Clone the Repository
+
+Download the project from GitHub:
+
+```
+git clone https://github.com/Ashwiniii770/ride-booking-backend.git
+```
+
+### 2. Navigate to the Project Folder
+
+```
+cd ride-booking-backend
+```
+
+### 3. Install Required Dependencies
+
+```
+pip install fastapi uvicorn
+```
+
+### 4. Run the FastAPI Server
+
+```
+uvicorn main:app --reload
+```
+
+### 5. Open API Documentation
+
+Open the browser and go to:
+
+```
+http://127.0.0.1:8000/docs
+```
+
+This will open **Swagger UI**, where you can test all API endpoints.
+
