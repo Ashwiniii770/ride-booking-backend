@@ -32,3 +32,11 @@ ride-booking-backend/
 ## Running the Project
 
 Install dependencies:
+
+
+## API Endpoints
+
+POST /riders
+POST /drivers
+POST /rides
+GET /rides
